@@ -1,0 +1,11 @@
+c:\users\roman\documents\visual studio 2013\Projects\MidiToHaH\MidiToHaH\bin\Debug\MidiToHaH.exe.config
+c:\users\roman\documents\visual studio 2013\Projects\MidiToHaH\MidiToHaH\bin\Debug\MidiToHaH.exe
+c:\users\roman\documents\visual studio 2013\Projects\MidiToHaH\MidiToHaH\bin\Debug\MidiToHaH.pdb
+c:\users\roman\documents\visual studio 2013\Projects\MidiToHaH\MidiToHaH\bin\Debug\Midi.dll
+c:\users\roman\documents\visual studio 2013\Projects\MidiToHaH\MidiToHaH\bin\Debug\Midi.xml
+c:\users\roman\documents\visual studio 2013\Projects\MidiToHaH\MidiToHaH\obj\Debug\MidiToHafen.csprojResolveAssemblyReference.cache
+c:\users\roman\documents\visual studio 2013\Projects\MidiToHaH\MidiToHaH\obj\Debug\MidiToHafen.Form1.resources
+c:\users\roman\documents\visual studio 2013\Projects\MidiToHaH\MidiToHaH\obj\Debug\MidiToHafen.Properties.Resources.resources
+c:\users\roman\documents\visual studio 2013\Projects\MidiToHaH\MidiToHaH\obj\Debug\MidiToHafen.csproj.GenerateResource.Cache
+c:\users\roman\documents\visual studio 2013\Projects\MidiToHaH\MidiToHaH\obj\Debug\MidiToHaH.exe
+c:\users\roman\documents\visual studio 2013\Projects\MidiToHaH\MidiToHaH\obj\Debug\MidiToHaH.pdb
